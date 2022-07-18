@@ -1,5 +1,6 @@
 SparkFun Electronics Eagle Libraries
 ====================================
+Hello!
 
 SparkFun Electronics' preferred foot prints using Eagle v6.0 or greater. 
 We've spent an enormous amount of time creating and checking these footprints and parts. 
